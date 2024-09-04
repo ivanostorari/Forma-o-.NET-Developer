@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivan.ostorari\\Desktop\\Randstad - Backend com .NET\\Formação_DIO_C_SHARP\\Projeto\\Projeto_Aluguel_De _Carros\\Projeto_Aluguel_De _Carros.csproj",
+      "projectUniqueName": "C:\\Users\\ivan.ostorari\\Desktop\\Formação .NET Developer_Dio\\Principal\\Projeto_Aluguel_De _Carros\\Projeto_Aluguel_De _Carros.csproj",
       "projectName": "Projeto_Aluguel_De _Carros",
-      "projectPath": "C:\\Users\\ivan.ostorari\\Desktop\\Randstad - Backend com .NET\\Formação_DIO_C_SHARP\\Projeto\\Projeto_Aluguel_De _Carros\\Projeto_Aluguel_De _Carros.csproj",
+      "projectPath": "C:\\Users\\ivan.ostorari\\Desktop\\Formação .NET Developer_Dio\\Principal\\Projeto_Aluguel_De _Carros\\Projeto_Aluguel_De _Carros.csproj",
       "packagesPath": "C:\\Users\\ivan.ostorari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivan.ostorari\\Desktop\\Randstad - Backend com .NET\\Formação_DIO_C_SHARP\\Projeto\\Projeto_Aluguel_De _Carros\\obj\\",
+      "outputPath": "C:\\Users\\ivan.ostorari\\Desktop\\Formação .NET Developer_Dio\\Principal\\Projeto_Aluguel_De _Carros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
