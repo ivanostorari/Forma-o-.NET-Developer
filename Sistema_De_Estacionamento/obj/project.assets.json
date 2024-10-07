@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\ivan.ostorari\\.nuget\\packages\\": {}
@@ -13,18 +13,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivan.ostorari\\Desktop\\Formação .NET Developer_Dio\\Principal\\Projeto_Aluguel_De _Carros\\Projeto_Aluguel_De _Carros.csproj",
-      "projectName": "Projeto_Aluguel_De _Carros",
-      "projectPath": "C:\\Users\\ivan.ostorari\\Desktop\\Formação .NET Developer_Dio\\Principal\\Projeto_Aluguel_De _Carros\\Projeto_Aluguel_De _Carros.csproj",
+      "projectUniqueName": "C:\\Users\\ivan.ostorari\\Desktop\\Formação .NET Developer_Dio\\Principal\\Sistema_De_Estacionamento\\Sistema_de_Estacionamento.csproj",
+      "projectName": "Sistema_de_Estacionamento",
+      "projectPath": "C:\\Users\\ivan.ostorari\\Desktop\\Formação .NET Developer_Dio\\Principal\\Sistema_De_Estacionamento\\Sistema_de_Estacionamento.csproj",
       "packagesPath": "C:\\Users\\ivan.ostorari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivan.ostorari\\Desktop\\Formação .NET Developer_Dio\\Principal\\Projeto_Aluguel_De _Carros\\obj\\",
+      "outputPath": "C:\\Users\\ivan.ostorari\\Desktop\\Formação .NET Developer_Dio\\Principal\\Sistema_De_Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivan.ostorari\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -32,8 +32,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -49,8 +49,8 @@
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

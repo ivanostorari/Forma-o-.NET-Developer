@@ -38,8 +38,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -50,8 +58,7 @@
               "RelativeToolTip": "Entities\\CarRental.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA8wAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:45:12.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T19:45:12.52Z"
             },
             {
               "$type": "Document",
@@ -111,8 +118,7 @@
               "RelativeToolTip": "Services\\RentalService.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAuwAIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:44:19.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T19:44:19.575Z"
             },
             {
               "$type": "Document",
@@ -126,6 +132,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T19:40:36.402Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
