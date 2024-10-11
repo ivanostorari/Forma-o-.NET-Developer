@@ -1,0 +1,15 @@
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\bin\Debug\net6.0\Sistema_de_Estacionamento.exe
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\bin\Debug\net6.0\Sistema_de_Estacionamento.deps.json
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\bin\Debug\net6.0\Sistema_de_Estacionamento.runtimeconfig.json
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\bin\Debug\net6.0\Sistema_de_Estacionamento.dll
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\bin\Debug\net6.0\Sistema_de_Estacionamento.pdb
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\obj\Debug\net6.0\Sistema_de_Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\obj\Debug\net6.0\Sistema_de_Estacionamento.AssemblyInfoInputs.cache
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\obj\Debug\net6.0\Sistema_de_Estacionamento.AssemblyInfo.cs
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\obj\Debug\net6.0\Sistema_de_Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\obj\Debug\net6.0\Sistema_de_Estacionamento.sourcelink.json
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\obj\Debug\net6.0\Sistema_de_Estacionamento.dll
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\obj\Debug\net6.0\refint\Sistema_de_Estacionamento.dll
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\obj\Debug\net6.0\Sistema_de_Estacionamento.pdb
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\obj\Debug\net6.0\Sistema_de_Estacionamento.genruntimeconfig.cache
+C:\Users\ivan.ostorari\Desktop\Formação .NET Developer_Dio\Principal\Sistema_De_Estacionamento\obj\Debug\net6.0\ref\Sistema_de_Estacionamento.dll
